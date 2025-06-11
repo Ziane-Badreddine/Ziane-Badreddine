@@ -1,21 +1,21 @@
-# 👋 Salut, je suis Ziane Badreddine !
+# 👋 Hi there, I'm Ziane Badreddine!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%9A%80;Étudiant+Ingénieur+Informatique;Passionné+par+le+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%9A%80;Computer+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG" />
 </div>
 
-## 🎓 À propos de moi
+## 🎓 About Me
 
-- 🎯 **Étudiant Ingénieur Informatique** à la FST Settat, Maroc
-- 💻 **Développeur Fullstack** spécialisé en technologies modernes
-- 🌱 Actuellement en train d'approfondir mes compétences en **Next.js** et **architectures cloud**
-- 🔭 Passionné par la création d'applications web performantes et scalables
-- 📍 **Localisation :** Settat, Maroc
-- 🕐 **Fuseau horaire :** UTC-12:00
-- 📧 **Contact :** zianebadredddine2004@gmail.com
-- 🌐 **Portfolio :** [badreddine-zianee.vercel.app](https://badreddine-zianee.vercel.app)
+- 🎯 **Computer Engineering Student** at FST Settat, Morocco
+- 💻 **Fullstack Developer** specialized in modern web technologies
+- 🌱 Currently deepening my skills in **Next.js** and **cloud architectures**
+- 🔭 Passionate about building performant and scalable web applications
+- 📍 **Location:** Settat, Morocco
+- 🕐 **Timezone:** UTC-12:00
+- 📧 **Contact:** zianebadredddine2004@gmail.com
+- 🌐 **Portfolio:** [badreddine-zianee.vercel.app](https://badreddine-zianee.vercel.app)
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -30,18 +30,18 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Bases de données & Services
+### Databases & Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge&logo=convex&logoColor=white)
 
-### Authentification & Outils
+### Authentication & Tools
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziane-Badreddine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -55,26 +55,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziane-Badreddine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Trophées GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ziane-Badreddine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Graphique d'activité
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziane-Badreddine&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎯 Projets en vedette
+## 🚀 Featured Projects
 
-- 🚀 **Application E-commerce** - Next.js + Clerk + Prisma + MongoDB
-- 💬 **Plateforme de Chat** - React + Convex + Tailwind CSS
-- 📱 **Dashboard Admin** - Next.js + Supabase + ShadCN UI
-- 🌐 **Portfolio Personnel** - Next.js + TypeScript + Tailwind CSS
+- 🛒 **E-commerce Application** - Built with Next.js + Clerk + Prisma + MongoDB
+- 💬 **Real-time Chat Platform** - React + Convex + Tailwind CSS
+- 📊 **Admin Dashboard** - Next.js + Supabase + ShadCN UI
+- 🌐 **Personal Portfolio** - Next.js + TypeScript + Tailwind CSS
 
-## 🤝 Connectons-nous !
+## 🎯 What I'm Working On
+
+- 🔥 Building modern web applications with cutting-edge technologies
+- 🌟 Exploring serverless architectures and cloud platforms
+- 📚 Continuously learning and improving my development skills
+- 🤝 Open to collaborating on exciting projects
+
+## 💡 Fun Facts
+
+- ⚡ I love turning complex problems into simple, elegant solutions
+- 🎨 I enjoy creating pixel-perfect, responsive user interfaces
+- 🌍 Always eager to learn new technologies and frameworks
+- ☕ Fueled by coffee and passion for coding
+
+## 🤝 Let's Connect!
 
 <div align="center">
   
@@ -92,5 +106,13 @@
 </div>
 
 <div align="center">
-  <i>💡 "Le code est de la poésie écrite pour les machines mais lue par les humains"</i>
+  <i>💻 "Code is poetry written for machines but read by humans"</i>
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 🌟
+
 </div>
