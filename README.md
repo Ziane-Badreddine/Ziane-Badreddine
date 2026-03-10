@@ -4,7 +4,7 @@ I'm a Software Engineering student passionate about building full-stack web appl
 I enjoy creating modern and scalable apps using technologies like Next.js, Node.js, Prisma, and Tailwind CSS.
 
 🧑‍💻 **Portfolio**: [https://ziane-badreddine.vercel.app](https://ziane-badreddine.vercel.app)  
-🎨 **Latest project**: [https://story-career.vercel.app](https://story-career.vercel.app)
+🎨 **Latest project**: [https://waves-cn.vercel.app](https://waves-cn.vercel.app)
 
 ---
 
